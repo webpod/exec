@@ -1,0 +1,19 @@
+{
+  "name": "@webpod/exec",
+  "version": "1.0.0",
+  "description": "A tiny spawn wrapper",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": "webpod/exec",
+  "keywords": [
+    "spawn"
+  ],
+  "author": "Anton Medvedev <anton@medv.io>",
+  "license": "MIT"
+}
