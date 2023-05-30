@@ -1,6 +1,6 @@
 {
   "name": "@webpod/exec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny spawn wrapper",
   "type": "module",
   "main": "index.js",
@@ -8,7 +8,8 @@
     "test": "node test.js"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "repository": "webpod/exec",
   "keywords": [
